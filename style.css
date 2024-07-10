@@ -12,14 +12,14 @@
     overflow: hidden;
 }
 
-.left-colunm{
+.left-column{
     flex-basis: 50%;
     height: 700px;
     background-color: #fff;
     position: relative;
 }
 
-.right-colunm{
+.right-column{
     flex-basis: 50%;
     height: 700px;
     background-image: linear-gradient(100deg, #e30009, #ff9e55);
